@@ -1,0 +1,7 @@
+.
+├── assets/
+│   └── index.html
+├── index.html
+├── main.go
+├── go.mod
+└── README.md 
